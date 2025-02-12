@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mira",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_steelplate",
+  "eventList":[],
   "managed":true,
-  "name":"obj_mira",
+  "name":"obj_steelplate",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,20 +21,15 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[
-    {"x":0.0,"y":0.0,},
-    {"x":16.0,"y":0.0,},
-    {"x":16.0,"y":16.0,},
-    {"x":0.0,"y":16.0,},
-  ],
+  "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mira",
-    "path":"sprites/spr_mira/spr_mira.yy",
+    "name":"spr_steelplate",
+    "path":"sprites/spr_steelplate/spr_steelplate.yy",
   },
   "spriteMaskId":null,
   "visible":true,
